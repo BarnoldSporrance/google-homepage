@@ -1,6 +1,6 @@
 This replication of the Google search Page is the first project from the Web Dev 101 course from The Odin Project (TOP).
 
-Links are dead, and the search function does not send text inut anywhere. 
+Links are dead, and the search function does not send text input anywhere. 
 
 For reflective purposes, the main learning points for me have been:
 
