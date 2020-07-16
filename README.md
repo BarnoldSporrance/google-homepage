@@ -1,5 +1,7 @@
 This replication of the Google search Page is the first project from the Web Dev 101 course from The Odin Project (TOP).
 
+Importantly, I didn't inspect the Google Page hardly at all - this was based on using my current, fledglin skills - rather than taking from Google homepage - I would have felt the compulsion to copy too much.  The only use of Inspector was half-successful attempts to use the color picker for font colors etc.
+
 Links are dead, and the search function does not send text input anywhere. 
 
 For reflective purposes, the main learning points for me have been:
