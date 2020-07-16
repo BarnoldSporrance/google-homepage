@@ -17,6 +17,10 @@ html{
     align-items: center;
 }
 
+.navbar a:hover{
+    text-decoration: underline;
+}
+
 body {
     background-color: white;
     display:flex;
@@ -88,6 +92,10 @@ input, input::-webkit-input-placeholder {
     line-height: 3;
 }
 
+input:focus{
+    outline: none;
+}
+
 .thumbnail-container {
     display: flex;
     flex-wrap: wrap;
@@ -102,7 +110,11 @@ input, input::-webkit-input-placeholder {
     height: 100px;
     width: 110px;
     justify-content: center;
-   
+}
+
+.thumb:hover{
+    background-color: rgb(243, 239, 239);
+    border-radius: 5px;
 }
 
 .thumb-image{
@@ -174,7 +186,7 @@ input, input::-webkit-input-placeholder {
     background-color: white;
     box-shadow: 1px 1px 4px 2px rgb(204, 202, 202);
     width:140px;
-    color:rgb(17, 85, 204);
+    /* color:rgb(17, 85, 204); */
     font-size:16px;
     font-family: Arial, sans-serif;
     padding-left: 30px;
@@ -189,5 +201,10 @@ input, input::-webkit-input-placeholder {
     height: auto;
     z-index: 1;
 }
+
+.footer-button:hover{
+    background-color: rgba(61, 61, 240, 0.1);
+}
+
 
 
